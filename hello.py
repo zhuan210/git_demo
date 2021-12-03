@@ -2,3 +2,4 @@
 # 学习者：漫画人
 
 print("hello world")
+print("add new content")
